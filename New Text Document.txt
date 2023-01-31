@@ -1,0 +1,4 @@
+split syntax
+input().split(seperator.maxsplit)
+inside the split parameter insert some value and it splits the value
+eg:x,y,z=input("enter three values:").split('0')
